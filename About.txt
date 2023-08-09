@@ -1,0 +1,16 @@
+Notes
+In order to run this application, all files in the product folder have to be downloaded:
+1. MBTIProt3.jar (the program)
+2. iText-2.1.7.jar (library to export pdf)
+3. databaseMBTI.sql
+Several files have to treated in such ways:
+1. You need to have XAMPP 8.1.12-0
+2. MySQL Database, ProFTPD, and Apache Web Server should be active
+3. The port of MySQL Database is 3307
+4. databaseMBTI.sql shall be imported in the localhost
+5. iText-2.1.7.jar imported in the netbeans
+Several additional notes :
+1. Developed using Netbeans
+2. The trial conducted in Macbook Pro M1
+
+
